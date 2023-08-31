@@ -1,6 +1,0 @@
-{{#user}}
-Name: Vanisha Deb
-Skills: docker ,kubernetes ,git ,github ,linux ,shellscripting ,jenkins ,aws ,ci/cd
-Email: debvanisha11@gmail.com
-{{/user}}
-
